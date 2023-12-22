@@ -16,5 +16,7 @@
 - <b>Active Directory Home Lab</b>
 
 <h2>🕸️ Web Script Programming Projects:</h2>
-- [Assignment Tracker Code](https://github.com/habibsyed1/Assignment-Tracker)
-- [Professional Profile Site](https://github.com/habibsyed1/Portfolio)
+- <b>Assignment Tracker Code</b>
+  - [Assignment Tracker Code](https://github.com/habibsyed1/Assignment-Tracker)
+- <b>Professional Profile Site</b>
+  - [Professional Profile Site](https://github.com/habibsyed1/Portfolio)
