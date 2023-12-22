@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Habib! <br/><a href="https://github.com/habibsyed1"> <a href="https://www.linkedin.com/in/habib-syed-921839258/">Cybersecurity Professional</a></h1>
 
-<!--
-**habibsyed1/habibsyed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🥇 Certifications</h2>
 
-Here are some ideas to get you started:
+- [AWS Certified Cloud Practitioner]()
+- [CompTIA Security+]()
+- [CompTIA Network+]()
+- [Certified Information Systems Security Professional (CISSP) - Pursuing]()
+- [IBM Cloud Security Engineer]()
+- [Microsoft Azure Fundamentals]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
+  - [Microsoft Azure: SIEM & SOAR]()
+- <b>Active Directory Home Lab</b>
+
+<h2>🕸️ Web Script Programming Projects:</h2>
+- <b>[Assignment Tracker Code](https://github.com/habibsyed1/Assignment-Tracker)</b>
+- <b>[Professional Profile Site](https://github.com/habibsyed1/Portfolio)</b>
