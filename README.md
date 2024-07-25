@@ -4,7 +4,6 @@
 
 - [AWS Certified Cloud Practitioner]()
 - [CompTIA Security+]()
-- [CompTIA Network+]()
 - [Certified Information Systems Security Professional (CISSP) - Pursuing]()
 - [IBM Cloud Security Engineer]()
 - [Microsoft Azure Fundamentals]()
@@ -13,7 +12,6 @@
 
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   - [Microsoft Azure: SIEM & SOAR]()
-- <b>Active Directory Home Lab</b>
 
 <h2>🕸️ Web Script Programming Projects:</h2>
 
